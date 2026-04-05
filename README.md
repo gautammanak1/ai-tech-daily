@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cursor-2026-04-05.md](./articles/cursor-2026-04-05.md)** — Cursor (2026-04-05)
+**[ocean-2026-04-05.md](./articles/ocean-2026-04-05.md)** — Ocean Protocol (2026-04-05)
 
 ---
 
@@ -16,6 +16,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 | Article | Company | Date |
 |---------|---------|------|
+| [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
 
