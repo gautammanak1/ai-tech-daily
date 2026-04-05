@@ -4,6 +4,14 @@
 
 ---
 
+## Latest Article
+
+**Date:** 2026-04-05
+
+Read the full article: **[article.md](./article.md)**
+
+---
+
 ## About
 
 This repository is updated daily by the [AI Tech Daily Agent](https://github.com/gautammanak1/ai-tech-daily-agent). Every morning, the agent:
@@ -13,6 +21,8 @@ This repository is updated daily by the [AI Tech Daily Agent](https://github.com
 3. Summarizes using an LLM
 4. Generates a full newsletter with images
 5. Publishes here automatically
+
+---
 
 ## Support
 
