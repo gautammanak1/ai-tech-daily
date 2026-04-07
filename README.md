@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[wandb-2026-04-07.md](./articles/wandb-2026-04-07.md)** — Weights & Biases (2026-04-07)
+**[ocean-2026-04-07.md](./articles/ocean-2026-04-07.md)** — Ocean Protocol (2026-04-07)
 
 ---
 
@@ -17,6 +17,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | Article | Company | Date |
 |---------|---------|------|
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
+| [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
