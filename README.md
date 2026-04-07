@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md)** — DeepSeek (2026-04-07)
+**[intel-2026-04-07.md](./articles/intel-2026-04-07.md)** — Intel (2026-04-07)
 
 ---
 
@@ -17,6 +17,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | Article | Company | Date |
 |---------|---------|------|
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
+| [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
 | [deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md) | deepseek | 2026-04-07 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
