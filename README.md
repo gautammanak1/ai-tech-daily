@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[wandb-2026-04-09.md](./articles/wandb-2026-04-09.md)** — Weights & Biases (2026-04-09)
+**[mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md)** — MCP Ecosystem (2026-04-10)
 
 ---
 
@@ -21,6 +21,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
+| [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
