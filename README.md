@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md)** — MCP Ecosystem (2026-04-10)
+**[ai21-2026-04-10.md](./articles/ai21-2026-04-10.md)** — AI21 Labs (2026-04-10)
 
 ---
 
@@ -29,6 +29,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
+| [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
 
 ---
