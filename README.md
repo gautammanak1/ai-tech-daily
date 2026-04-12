@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[tavily-2026-04-11.md](./articles/tavily-2026-04-11.md)** — Tavily (2026-04-11)
+**[cohere-2026-04-12.md](./articles/cohere-2026-04-12.md)** — Cohere (2026-04-12)
 
 ---
 
@@ -28,6 +28,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
 | [deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md) | deepseek | 2026-04-07 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
+| [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
