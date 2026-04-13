@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cohere-2026-04-12.md](./articles/cohere-2026-04-12.md)** — Cohere (2026-04-12)
+**[langchain-2026-04-13.md](./articles/langchain-2026-04-13.md)** — LangChain (2026-04-13)
 
 ---
 
@@ -23,6 +23,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
+| [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
