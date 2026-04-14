@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[langchain-2026-04-13.md](./articles/langchain-2026-04-13.md)** — LangChain (2026-04-13)
+**[amazon-2026-04-14.md](./articles/amazon-2026-04-14.md)** — Amazon (2026-04-14)
 
 ---
 
@@ -32,6 +32,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
+| [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
 
