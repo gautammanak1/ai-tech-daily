@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[amazon-2026-04-14.md](./articles/amazon-2026-04-14.md)** — Amazon (2026-04-14)
+**[salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md)** — Salesforce (2026-04-15)
 
 ---
 
@@ -20,6 +20,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [wandb-2026-04-09.md](./articles/wandb-2026-04-09.md) | wandb | 2026-04-09 |
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
+| [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
