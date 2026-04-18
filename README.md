@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cerebras-2026-04-17.md](./articles/cerebras-2026-04-17.md)** — Cerebras (2026-04-17)
+**[llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md)** — LlamaIndex (2026-04-18)
 
 ---
 
@@ -25,6 +25,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
+| [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
