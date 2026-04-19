@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md)** — LlamaIndex (2026-04-18)
+**[babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md)** — BabyAGI (2026-04-19)
 
 ---
 
@@ -36,6 +36,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
 | [cerebras-2026-04-17.md](./articles/cerebras-2026-04-17.md) | cerebras | 2026-04-17 |
+| [babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md) | babyagi | 2026-04-19 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
