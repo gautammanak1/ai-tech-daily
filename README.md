@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md)** — BabyAGI (2026-04-19)
+**[inflection-2026-04-20.md](./articles/inflection-2026-04-20.md)** — Inflection AI (2026-04-20)
 
 ---
 
@@ -30,6 +30,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
+| [inflection-2026-04-20.md](./articles/inflection-2026-04-20.md) | inflection | 2026-04-20 |
 | [deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md) | deepseek | 2026-04-07 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
