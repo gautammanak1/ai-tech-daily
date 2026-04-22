@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[bittensor-2026-04-21.md](./articles/bittensor-2026-04-21.md)** — Bittensor (2026-04-21)
+**[meta-2026-04-22.md](./articles/meta-2026-04-22.md)** — Meta (2026-04-22)
 
 ---
 
@@ -24,6 +24,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
+| [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
