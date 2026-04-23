@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[meta-2026-04-22.md](./articles/meta-2026-04-22.md)** — Meta (2026-04-22)
+**[wandb-2026-04-23.md](./articles/wandb-2026-04-23.md)** — Weights & Biases (2026-04-23)
 
 ---
 
@@ -17,6 +17,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | Article | Company | Date |
 |---------|---------|------|
 | [weaviate-2026-04-07.md](./articles/weaviate-2026-04-07.md) | weaviate | 2026-04-07 |
+| [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
 | [wandb-2026-04-09.md](./articles/wandb-2026-04-09.md) | wandb | 2026-04-09 |
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
