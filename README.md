@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[runway-2026-04-27.md](./articles/runway-2026-04-27.md)** — Runway (2026-04-27)
+**[xai-2026-04-28.md](./articles/xai-2026-04-28.md)** — xAI (2026-04-28)
 
 ---
 
@@ -16,6 +16,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 | Article | Company | Date |
 |---------|---------|------|
+| [xai-2026-04-28.md](./articles/xai-2026-04-28.md) | xai | 2026-04-28 |
 | [weaviate-2026-04-07.md](./articles/weaviate-2026-04-07.md) | weaviate | 2026-04-07 |
 | [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
 | [wandb-2026-04-09.md](./articles/wandb-2026-04-09.md) | wandb | 2026-04-09 |
