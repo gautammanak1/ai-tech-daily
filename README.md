@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[xai-2026-04-28.md](./articles/xai-2026-04-28.md)** — xAI (2026-04-28)
+**[1x-tech-2026-04-29.md](./articles/1x-tech-2026-04-29.md)** — 1X Technologies (2026-04-29)
 
 ---
 
@@ -49,6 +49,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
+| [1x-tech-2026-04-29.md](./articles/1x-tech-2026-04-29.md) | 1x-tech | 2026-04-29 |
 
 ---
 
