@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[1x-tech-2026-04-29.md](./articles/1x-tech-2026-04-29.md)** — 1X Technologies (2026-04-29)
+**[amd-2026-04-30.md](./articles/amd-2026-04-30.md)** — AMD (2026-04-30)
 
 ---
 
@@ -46,6 +46,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cerebras-2026-04-17.md](./articles/cerebras-2026-04-17.md) | cerebras | 2026-04-17 |
 | [bittensor-2026-04-21.md](./articles/bittensor-2026-04-21.md) | bittensor | 2026-04-21 |
 | [babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md) | babyagi | 2026-04-19 |
+| [amd-2026-04-30.md](./articles/amd-2026-04-30.md) | amd | 2026-04-30 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
