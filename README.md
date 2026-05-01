@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[amd-2026-04-30.md](./articles/amd-2026-04-30.md)** — AMD (2026-04-30)
+**[exa-2026-05-01.md](./articles/exa-2026-05-01.md)** — Exa (2026-05-01)
 
 ---
 
@@ -36,6 +36,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
 | [inflection-2026-04-20.md](./articles/inflection-2026-04-20.md) | inflection | 2026-04-20 |
+| [exa-2026-05-01.md](./articles/exa-2026-05-01.md) | exa | 2026-05-01 |
 | [elevenlabs-2026-04-24.md](./articles/elevenlabs-2026-04-24.md) | elevenlabs | 2026-04-24 |
 | [deepseek-2026-04-26.md](./articles/deepseek-2026-04-26.md) | deepseek | 2026-04-26 |
 | [deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md) | deepseek | 2026-04-07 |
