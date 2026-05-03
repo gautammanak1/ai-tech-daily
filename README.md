@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[deepseek-2026-05-02.md](./articles/deepseek-2026-05-02.md)** — DeepSeek (2026-05-02)
+**[agno-2026-05-03.md](./articles/agno-2026-05-03.md)** — Agno (2026-05-03)
 
 ---
 
@@ -51,6 +51,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [amd-2026-04-30.md](./articles/amd-2026-04-30.md) | amd | 2026-04-30 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
+| [agno-2026-05-03.md](./articles/agno-2026-05-03.md) | agno | 2026-05-03 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
 | [1x-tech-2026-04-29.md](./articles/1x-tech-2026-04-29.md) | 1x-tech | 2026-04-29 |
 
