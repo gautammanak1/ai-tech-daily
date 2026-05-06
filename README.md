@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[bittensor-2026-05-05.md](./articles/bittensor-2026-05-05.md)** — Bittensor (2026-05-05)
+**[zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md)** — Zhipu AI (2026-05-06)
 
 ---
 
@@ -16,6 +16,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 | Article | Company | Date |
 |---------|---------|------|
+| [zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md) | zhipu | 2026-05-06 |
 | [xai-2026-04-28.md](./articles/xai-2026-04-28.md) | xai | 2026-04-28 |
 | [weaviate-2026-04-07.md](./articles/weaviate-2026-04-07.md) | weaviate | 2026-04-07 |
 | [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
