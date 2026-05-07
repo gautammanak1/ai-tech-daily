@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md)** — Zhipu AI (2026-05-06)
+**[lakera-2026-05-07.md](./articles/lakera-2026-05-07.md)** — Lakera (2026-05-07)
 
 ---
 
@@ -33,6 +33,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
+| [lakera-2026-05-07.md](./articles/lakera-2026-05-07.md) | lakera | 2026-05-07 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
