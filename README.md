@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[github-copilot-2026-05-08.md](./articles/github-copilot-2026-05-08.md)** — GitHub Copilot (2026-05-08)
+**[cursor-2026-05-11.md](./articles/cursor-2026-05-11.md)** — Cursor (2026-05-11)
 
 ---
 
@@ -45,6 +45,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [deepseek-2026-05-02.md](./articles/deepseek-2026-05-02.md) | deepseek | 2026-05-02 |
 | [deepseek-2026-04-26.md](./articles/deepseek-2026-04-26.md) | deepseek | 2026-04-26 |
 | [deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md) | deepseek | 2026-04-07 |
+| [cursor-2026-05-11.md](./articles/cursor-2026-05-11.md) | cursor | 2026-05-11 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
