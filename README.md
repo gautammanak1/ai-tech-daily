@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cursor-2026-05-11.md](./articles/cursor-2026-05-11.md)** — Cursor (2026-05-11)
+**[crewai-2026-05-12.md](./articles/crewai-2026-05-12.md)** — CrewAI (2026-05-12)
 
 ---
 
@@ -47,6 +47,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [deepseek-2026-04-07.md](./articles/deepseek-2026-04-07.md) | deepseek | 2026-04-07 |
 | [cursor-2026-05-11.md](./articles/cursor-2026-05-11.md) | cursor | 2026-05-11 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
+| [crewai-2026-05-12.md](./articles/crewai-2026-05-12.md) | crewai | 2026-05-12 |
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
