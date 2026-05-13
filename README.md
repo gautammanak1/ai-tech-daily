@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[crewai-2026-05-12.md](./articles/crewai-2026-05-12.md)** — CrewAI (2026-05-12)
+**[lambda-2026-05-13.md](./articles/lambda-2026-05-13.md)** — Lambda (2026-05-13)
 
 ---
 
@@ -33,6 +33,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
+| [lambda-2026-05-13.md](./articles/lambda-2026-05-13.md) | lambda | 2026-05-13 |
 | [lakera-2026-05-07.md](./articles/lakera-2026-05-07.md) | lakera | 2026-05-07 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
