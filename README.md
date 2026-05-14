@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[lambda-2026-05-13.md](./articles/lambda-2026-05-13.md)** — Lambda (2026-05-13)
+**[midjourney-2026-05-14.md](./articles/midjourney-2026-05-14.md)** — Midjourney (2026-05-14)
 
 ---
 
@@ -29,6 +29,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
+| [midjourney-2026-05-14.md](./articles/midjourney-2026-05-14.md) | midjourney | 2026-05-14 |
 | [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
