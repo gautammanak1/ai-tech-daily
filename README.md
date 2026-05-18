@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[adept-2026-05-15.md](./articles/adept-2026-05-15.md)** — Adept AI (2026-05-15)
+**[cerebras-2026-05-18.md](./articles/cerebras-2026-05-18.md)** — Cerebras (2026-05-18)
 
 ---
 
@@ -53,6 +53,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
+| [cerebras-2026-05-18.md](./articles/cerebras-2026-05-18.md) | cerebras | 2026-05-18 |
 | [cerebras-2026-04-17.md](./articles/cerebras-2026-04-17.md) | cerebras | 2026-04-17 |
 | [bittensor-2026-05-05.md](./articles/bittensor-2026-05-05.md) | bittensor | 2026-05-05 |
 | [bittensor-2026-04-21.md](./articles/bittensor-2026-04-21.md) | bittensor | 2026-04-21 |
