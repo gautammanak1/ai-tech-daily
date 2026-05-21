@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[bittensor-2026-05-21.md](./articles/bittensor-2026-05-21.md)** — Bittensor (2026-05-21)
+**[harvey-2026-05-21.md](./articles/harvey-2026-05-21.md)** — Harvey AI (2026-05-21)
 
 ---
 
@@ -40,6 +40,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
 | [inflection-2026-04-20.md](./articles/inflection-2026-04-20.md) | inflection | 2026-04-20 |
+| [harvey-2026-05-21.md](./articles/harvey-2026-05-21.md) | harvey | 2026-05-21 |
 | [github-copilot-2026-05-08.md](./articles/github-copilot-2026-05-08.md) | github-copilot | 2026-05-08 |
 | [exa-2026-05-01.md](./articles/exa-2026-05-01.md) | exa | 2026-05-01 |
 | [elevenlabs-2026-05-20.md](./articles/elevenlabs-2026-05-20.md) | elevenlabs | 2026-05-20 |
