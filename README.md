@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[elevenlabs-2026-05-20.md](./articles/elevenlabs-2026-05-20.md)** — ElevenLabs (2026-05-20)
+**[bittensor-2026-05-21.md](./articles/bittensor-2026-05-21.md)** — Bittensor (2026-05-21)
 
 ---
 
@@ -57,6 +57,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [chainlink-2026-04-05.md](./articles/chainlink-2026-04-05.md) | chainlink | 2026-04-05 |
 | [cerebras-2026-05-18.md](./articles/cerebras-2026-05-18.md) | cerebras | 2026-05-18 |
 | [cerebras-2026-04-17.md](./articles/cerebras-2026-04-17.md) | cerebras | 2026-04-17 |
+| [bittensor-2026-05-21.md](./articles/bittensor-2026-05-21.md) | bittensor | 2026-05-21 |
 | [bittensor-2026-05-05.md](./articles/bittensor-2026-05-05.md) | bittensor | 2026-05-05 |
 | [bittensor-2026-04-21.md](./articles/bittensor-2026-04-21.md) | bittensor | 2026-04-21 |
 | [babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md) | babyagi | 2026-04-19 |
