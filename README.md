@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[groq-2026-05-26.md](./articles/groq-2026-05-26.md)** — Groq (2026-05-26)
+**[scaleai-2026-05-27.md](./articles/scaleai-2026-05-27.md)** — Scale AI (2026-05-27)
 
 ---
 
@@ -25,6 +25,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [tesla-2026-04-25.md](./articles/tesla-2026-04-25.md) | tesla | 2026-04-25 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
 | [supabase-2026-04-16.md](./articles/supabase-2026-04-16.md) | supabase | 2026-04-16 |
+| [scaleai-2026-05-27.md](./articles/scaleai-2026-05-27.md) | scaleai | 2026-05-27 |
 | [samsung-2026-05-25.md](./articles/samsung-2026-05-25.md) | samsung | 2026-05-25 |
 | [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
