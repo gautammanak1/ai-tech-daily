@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[chainlink-2026-05-28.md](./articles/chainlink-2026-05-28.md)** — Chainlink (2026-05-28)
+**[figureai-2026-05-29.md](./articles/figureai-2026-05-29.md)** — Figure AI (2026-05-29)
 
 ---
 
@@ -46,6 +46,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [harvey-2026-05-21.md](./articles/harvey-2026-05-21.md) | harvey | 2026-05-21 |
 | [groq-2026-05-26.md](./articles/groq-2026-05-26.md) | groq | 2026-05-26 |
 | [github-copilot-2026-05-08.md](./articles/github-copilot-2026-05-08.md) | github-copilot | 2026-05-08 |
+| [figureai-2026-05-29.md](./articles/figureai-2026-05-29.md) | figureai | 2026-05-29 |
 | [exa-2026-05-01.md](./articles/exa-2026-05-01.md) | exa | 2026-05-01 |
 | [elevenlabs-2026-05-20.md](./articles/elevenlabs-2026-05-20.md) | elevenlabs | 2026-05-20 |
 | [elevenlabs-2026-04-24.md](./articles/elevenlabs-2026-04-24.md) | elevenlabs | 2026-04-24 |
