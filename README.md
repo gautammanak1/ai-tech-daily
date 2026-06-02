@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[samsung-2026-06-01.md](./articles/samsung-2026-06-01.md)** — Samsung (2026-06-01)
+**[tabnine-2026-06-02.md](./articles/tabnine-2026-06-02.md)** — Tabnine (2026-06-02)
 
 ---
 
@@ -24,6 +24,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
 | [tesla-2026-04-25.md](./articles/tesla-2026-04-25.md) | tesla | 2026-04-25 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
+| [tabnine-2026-06-02.md](./articles/tabnine-2026-06-02.md) | tabnine | 2026-06-02 |
 | [supabase-2026-04-16.md](./articles/supabase-2026-04-16.md) | supabase | 2026-04-16 |
 | [scaleai-2026-05-27.md](./articles/scaleai-2026-05-27.md) | scaleai | 2026-05-27 |
 | [samsung-2026-06-01.md](./articles/samsung-2026-06-01.md) | samsung | 2026-06-01 |
