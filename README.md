@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[tabnine-2026-06-02.md](./articles/tabnine-2026-06-02.md)** — Tabnine (2026-06-02)
+**[cognition-2026-06-03.md](./articles/cognition-2026-06-03.md)** — Cognition (2026-06-03)
 
 ---
 
@@ -60,6 +60,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
 | [crewai-2026-05-12.md](./articles/crewai-2026-05-12.md) | crewai | 2026-05-12 |
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
+| [cognition-2026-06-03.md](./articles/cognition-2026-06-03.md) | cognition | 2026-06-03 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
 | [chainlink-2026-05-28.md](./articles/chainlink-2026-05-28.md) | chainlink | 2026-05-28 |
 | [chainlink-2026-05-19.md](./articles/chainlink-2026-05-19.md) | chainlink | 2026-05-19 |
