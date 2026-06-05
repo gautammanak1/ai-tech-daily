@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[anyscale-2026-06-04.md](./articles/anyscale-2026-06-04.md)** — Anyscale (2026-06-04)
+**[leonardoai-2026-06-05.md](./articles/leonardoai-2026-06-05.md)** — Leonardo AI (2026-06-05)
 
 ---
 
@@ -38,6 +38,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
+| [leonardoai-2026-06-05.md](./articles/leonardoai-2026-06-05.md) | leonardoai | 2026-06-05 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
 | [lambda-2026-05-13.md](./articles/lambda-2026-05-13.md) | lambda | 2026-05-13 |
 | [lakera-2026-05-07.md](./articles/lakera-2026-05-07.md) | lakera | 2026-05-07 |
