@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[leonardoai-2026-06-05.md](./articles/leonardoai-2026-06-05.md)** — Leonardo AI (2026-06-05)
+**[modal-2026-06-08.md](./articles/modal-2026-06-08.md)** — Modal (2026-06-08)
 
 ---
 
@@ -34,6 +34,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
+| [modal-2026-06-08.md](./articles/modal-2026-06-08.md) | modal | 2026-06-08 |
 | [midjourney-2026-05-14.md](./articles/midjourney-2026-05-14.md) | midjourney | 2026-05-14 |
 | [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
