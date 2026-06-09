@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[modal-2026-06-08.md](./articles/modal-2026-06-08.md)** — Modal (2026-06-08)
+**[perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md)** — Perplexity (2026-06-09)
 
 ---
 
@@ -32,6 +32,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
+| [perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md) | perplexity | 2026-06-09 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [modal-2026-06-08.md](./articles/modal-2026-06-08.md) | modal | 2026-06-08 |
