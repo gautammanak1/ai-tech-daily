@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md)** — Perplexity (2026-06-09)
+**[agno-2026-06-10.md](./articles/agno-2026-06-10.md)** — Agno (2026-06-10)
 
 ---
 
@@ -78,6 +78,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [amd-2026-04-30.md](./articles/amd-2026-04-30.md) | amd | 2026-04-30 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
+| [agno-2026-06-10.md](./articles/agno-2026-06-10.md) | agno | 2026-06-10 |
 | [agno-2026-05-03.md](./articles/agno-2026-05-03.md) | agno | 2026-05-03 |
 | [adept-2026-05-15.md](./articles/adept-2026-05-15.md) | adept | 2026-05-15 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
