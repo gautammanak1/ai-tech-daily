@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[autogpt-2026-06-11.md](./articles/autogpt-2026-06-11.md)** — AutoGPT (2026-06-11)
+**[lakera-2026-06-12.md](./articles/lakera-2026-06-12.md)** — Lakera (2026-06-12)
 
 ---
 
@@ -43,6 +43,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [leonardoai-2026-06-05.md](./articles/leonardoai-2026-06-05.md) | leonardoai | 2026-06-05 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
 | [lambda-2026-05-13.md](./articles/lambda-2026-05-13.md) | lambda | 2026-05-13 |
+| [lakera-2026-06-12.md](./articles/lakera-2026-06-12.md) | lakera | 2026-06-12 |
 | [lakera-2026-05-07.md](./articles/lakera-2026-05-07.md) | lakera | 2026-05-07 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
