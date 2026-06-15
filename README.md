@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[lakera-2026-06-12.md](./articles/lakera-2026-06-12.md)** — Lakera (2026-06-12)
+**[nvidia-2026-06-15.md](./articles/nvidia-2026-06-15.md)** — NVIDIA (2026-06-15)
 
 ---
 
@@ -35,6 +35,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md) | perplexity | 2026-06-09 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
+| [nvidia-2026-06-15.md](./articles/nvidia-2026-06-15.md) | nvidia | 2026-06-15 |
 | [modal-2026-06-08.md](./articles/modal-2026-06-08.md) | modal | 2026-06-08 |
 | [midjourney-2026-05-14.md](./articles/midjourney-2026-05-14.md) | midjourney | 2026-05-14 |
 | [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
