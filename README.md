@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[codeium-2026-06-16.md](./articles/codeium-2026-06-16.md)** — Codeium (2026-06-16)
+**[waymo-2026-06-17.md](./articles/waymo-2026-06-17.md)** — Waymo (2026-06-17)
 
 ---
 
@@ -19,6 +19,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md) | zhipu | 2026-05-06 |
 | [xai-2026-04-28.md](./articles/xai-2026-04-28.md) | xai | 2026-04-28 |
 | [weaviate-2026-04-07.md](./articles/weaviate-2026-04-07.md) | weaviate | 2026-04-07 |
+| [waymo-2026-06-17.md](./articles/waymo-2026-06-17.md) | waymo | 2026-06-17 |
 | [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
 | [wandb-2026-04-09.md](./articles/wandb-2026-04-09.md) | wandb | 2026-04-09 |
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
