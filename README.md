@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[nvidia-2026-06-19.md](./articles/nvidia-2026-06-19.md)** — NVIDIA (2026-06-19)
+**[lambda-2026-06-22.md](./articles/lambda-2026-06-22.md)** — Lambda (2026-06-22)
 
 ---
 
@@ -46,6 +46,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
 | [leonardoai-2026-06-05.md](./articles/leonardoai-2026-06-05.md) | leonardoai | 2026-06-05 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
+| [lambda-2026-06-22.md](./articles/lambda-2026-06-22.md) | lambda | 2026-06-22 |
 | [lambda-2026-05-13.md](./articles/lambda-2026-05-13.md) | lambda | 2026-05-13 |
 | [lakera-2026-06-12.md](./articles/lakera-2026-06-12.md) | lakera | 2026-06-12 |
 | [lakera-2026-05-07.md](./articles/lakera-2026-05-07.md) | lakera | 2026-05-07 |
