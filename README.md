@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[lambda-2026-06-22.md](./articles/lambda-2026-06-22.md)** — Lambda (2026-06-22)
+**[xai-2026-06-23.md](./articles/xai-2026-06-23.md)** — xAI (2026-06-23)
 
 ---
 
@@ -18,6 +18,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 |---------|---------|------|
 | [zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md) | zhipu | 2026-05-06 |
 | [you-com-2026-06-18.md](./articles/you-com-2026-06-18.md) | you-com | 2026-06-18 |
+| [xai-2026-06-23.md](./articles/xai-2026-06-23.md) | xai | 2026-06-23 |
 | [xai-2026-04-28.md](./articles/xai-2026-04-28.md) | xai | 2026-04-28 |
 | [weaviate-2026-04-07.md](./articles/weaviate-2026-04-07.md) | weaviate | 2026-04-07 |
 | [waymo-2026-06-17.md](./articles/waymo-2026-06-17.md) | waymo | 2026-06-17 |
