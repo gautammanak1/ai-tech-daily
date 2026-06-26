@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[ai21-2026-06-25.md](./articles/ai21-2026-06-25.md)** — AI21 Labs (2026-06-25)
+**[dify-2026-06-26.md](./articles/dify-2026-06-26.md)** — Dify (2026-06-26)
 
 ---
 
@@ -62,6 +62,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [exa-2026-05-01.md](./articles/exa-2026-05-01.md) | exa | 2026-05-01 |
 | [elevenlabs-2026-05-20.md](./articles/elevenlabs-2026-05-20.md) | elevenlabs | 2026-05-20 |
 | [elevenlabs-2026-04-24.md](./articles/elevenlabs-2026-04-24.md) | elevenlabs | 2026-04-24 |
+| [dify-2026-06-26.md](./articles/dify-2026-06-26.md) | dify | 2026-06-26 |
 | [deepseek-2026-05-04.md](./articles/deepseek-2026-05-04.md) | deepseek | 2026-05-04 |
 | [deepseek-2026-05-02.md](./articles/deepseek-2026-05-02.md) | deepseek | 2026-05-02 |
 | [deepseek-2026-04-26.md](./articles/deepseek-2026-04-26.md) | deepseek | 2026-04-26 |
