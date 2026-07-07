@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[github-copilot-2026-07-06.md](./articles/github-copilot-2026-07-06.md)** — GitHub Copilot (2026-07-06)
+**[qualcomm-2026-07-07.md](./articles/qualcomm-2026-07-07.md)** — Qualcomm (2026-07-07)
 
 ---
 
@@ -36,6 +36,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
 | [render-2026-07-02.md](./articles/render-2026-07-02.md) | render | 2026-07-02 |
+| [qualcomm-2026-07-07.md](./articles/qualcomm-2026-07-07.md) | qualcomm | 2026-07-07 |
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
 | [pinecone-2026-06-30.md](./articles/pinecone-2026-06-30.md) | pinecone | 2026-06-30 |
 | [perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md) | perplexity | 2026-06-09 |
