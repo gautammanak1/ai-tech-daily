@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[qualcomm-2026-07-07.md](./articles/qualcomm-2026-07-07.md)** — Qualcomm (2026-07-07)
+**[langchain-2026-07-21.md](./articles/langchain-2026-07-21.md)** — LangChain (2026-07-21)
 
 ---
 
@@ -50,6 +50,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
 | [llamaindex-2026-04-18.md](./articles/llamaindex-2026-04-18.md) | llamaindex | 2026-04-18 |
 | [leonardoai-2026-06-05.md](./articles/leonardoai-2026-06-05.md) | leonardoai | 2026-06-05 |
+| [langchain-2026-07-21.md](./articles/langchain-2026-07-21.md) | langchain | 2026-07-21 |
 | [langchain-2026-04-13.md](./articles/langchain-2026-04-13.md) | langchain | 2026-04-13 |
 | [lambda-2026-06-22.md](./articles/lambda-2026-06-22.md) | lambda | 2026-06-22 |
 | [lambda-2026-05-13.md](./articles/lambda-2026-05-13.md) | lambda | 2026-05-13 |
