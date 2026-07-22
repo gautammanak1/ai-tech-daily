@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[langchain-2026-07-21.md](./articles/langchain-2026-07-21.md)** — LangChain (2026-07-21)
+**[togetherai-2026-07-22.md](./articles/togetherai-2026-07-22.md)** — Together AI (2026-07-22)
 
 ---
 
@@ -26,6 +26,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
 | [wandb-2026-04-09.md](./articles/wandb-2026-04-09.md) | wandb | 2026-04-09 |
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
+| [togetherai-2026-07-22.md](./articles/togetherai-2026-07-22.md) | togetherai | 2026-07-22 |
 | [tesla-2026-04-25.md](./articles/tesla-2026-04-25.md) | tesla | 2026-04-25 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
 | [tabnine-2026-06-02.md](./articles/tabnine-2026-06-02.md) | tabnine | 2026-06-02 |
