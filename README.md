@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[chainlink-2026-07-23.md](./articles/chainlink-2026-07-23.md)** — Chainlink (2026-07-23)
+**[modal-2026-07-24.md](./articles/modal-2026-07-24.md)** — Modal (2026-07-24)
 
 ---
 
@@ -45,6 +45,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [nvidia-2026-06-19.md](./articles/nvidia-2026-06-19.md) | nvidia | 2026-06-19 |
 | [nvidia-2026-06-15.md](./articles/nvidia-2026-06-15.md) | nvidia | 2026-06-15 |
+| [modal-2026-07-24.md](./articles/modal-2026-07-24.md) | modal | 2026-07-24 |
 | [modal-2026-06-08.md](./articles/modal-2026-06-08.md) | modal | 2026-06-08 |
 | [midjourney-2026-05-14.md](./articles/midjourney-2026-05-14.md) | midjourney | 2026-05-14 |
 | [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
