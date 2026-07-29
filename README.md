@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[openai-2026-07-28.md](./articles/openai-2026-07-28.md)** — OpenAI (2026-07-28)
+**[tavily-2026-07-29.md](./articles/tavily-2026-07-29.md)** — Tavily (2026-07-29)
 
 ---
 
@@ -28,6 +28,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
 | [togetherai-2026-07-22.md](./articles/togetherai-2026-07-22.md) | togetherai | 2026-07-22 |
 | [tesla-2026-04-25.md](./articles/tesla-2026-04-25.md) | tesla | 2026-04-25 |
+| [tavily-2026-07-29.md](./articles/tavily-2026-07-29.md) | tavily | 2026-07-29 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
 | [tabnine-2026-06-02.md](./articles/tabnine-2026-06-02.md) | tabnine | 2026-06-02 |
 | [supabase-2026-04-16.md](./articles/supabase-2026-04-16.md) | supabase | 2026-04-16 |
