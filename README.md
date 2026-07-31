@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[tavily-2026-07-31.md](./articles/tavily-2026-07-31.md)** — Tavily (2026-07-31)
+**[doc2mcp-2026-07-31.md](./articles/doc2mcp-2026-07-31.md)** — doc2mcp (2026-07-31)
 
 ---
 
@@ -76,6 +76,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [elevenlabs-2026-06-29.md](./articles/elevenlabs-2026-06-29.md) | elevenlabs | 2026-06-29 |
 | [elevenlabs-2026-05-20.md](./articles/elevenlabs-2026-05-20.md) | elevenlabs | 2026-05-20 |
 | [elevenlabs-2026-04-24.md](./articles/elevenlabs-2026-04-24.md) | elevenlabs | 2026-04-24 |
+| [doc2mcp-2026-07-31.md](./articles/doc2mcp-2026-07-31.md) | doc2mcp | 2026-07-31 |
 | [dify-2026-06-26.md](./articles/dify-2026-06-26.md) | dify | 2026-06-26 |
 | [deepseek-2026-05-04.md](./articles/deepseek-2026-05-04.md) | deepseek | 2026-05-04 |
 | [deepseek-2026-05-02.md](./articles/deepseek-2026-05-02.md) | deepseek | 2026-05-02 |
