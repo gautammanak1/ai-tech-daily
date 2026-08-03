@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[doc2mcp-2026-07-31.md](./articles/doc2mcp-2026-07-31.md)** — doc2mcp (2026-07-31)
+**[exa-2026-08-03.md](./articles/exa-2026-08-03.md)** — Exa (2026-08-03)
 
 ---
 
@@ -72,6 +72,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [github-copilot-2026-05-08.md](./articles/github-copilot-2026-05-08.md) | github-copilot | 2026-05-08 |
 | [figureai-2026-07-30.md](./articles/figureai-2026-07-30.md) | figureai | 2026-07-30 |
 | [figureai-2026-05-29.md](./articles/figureai-2026-05-29.md) | figureai | 2026-05-29 |
+| [exa-2026-08-03.md](./articles/exa-2026-08-03.md) | exa | 2026-08-03 |
 | [exa-2026-05-01.md](./articles/exa-2026-05-01.md) | exa | 2026-05-01 |
 | [elevenlabs-2026-06-29.md](./articles/elevenlabs-2026-06-29.md) | elevenlabs | 2026-06-29 |
 | [elevenlabs-2026-05-20.md](./articles/elevenlabs-2026-05-20.md) | elevenlabs | 2026-05-20 |
