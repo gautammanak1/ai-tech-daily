@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[exa-2026-08-03.md](./articles/exa-2026-08-03.md)** — Exa (2026-08-03)
+**[runway-2026-08-04.md](./articles/runway-2026-08-04.md)** — Runway (2026-08-04)
 
 ---
 
@@ -37,6 +37,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [samsung-2026-06-01.md](./articles/samsung-2026-06-01.md) | samsung | 2026-06-01 |
 | [samsung-2026-05-25.md](./articles/samsung-2026-05-25.md) | samsung | 2026-05-25 |
 | [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
+| [runway-2026-08-04.md](./articles/runway-2026-08-04.md) | runway | 2026-08-04 |
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
 | [render-2026-07-02.md](./articles/render-2026-07-02.md) | render | 2026-07-02 |
 | [qualcomm-2026-07-07.md](./articles/qualcomm-2026-07-07.md) | qualcomm | 2026-07-07 |
