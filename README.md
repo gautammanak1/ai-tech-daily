@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[runway-2026-08-04.md](./articles/runway-2026-08-04.md)** — Runway (2026-08-04)
+**[togetherai-2026-08-05.md](./articles/togetherai-2026-08-05.md)** — Together AI (2026-08-05)
 
 ---
 
@@ -26,6 +26,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
 | [wandb-2026-04-09.md](./articles/wandb-2026-04-09.md) | wandb | 2026-04-09 |
 | [wandb-2026-04-07.md](./articles/wandb-2026-04-07.md) | wandb | 2026-04-07 |
+| [togetherai-2026-08-05.md](./articles/togetherai-2026-08-05.md) | togetherai | 2026-08-05 |
 | [togetherai-2026-07-22.md](./articles/togetherai-2026-07-22.md) | togetherai | 2026-07-22 |
 | [tesla-2026-04-25.md](./articles/tesla-2026-04-25.md) | tesla | 2026-04-25 |
 | [tavily-2026-07-31.md](./articles/tavily-2026-07-31.md) | tavily | 2026-07-31 |
