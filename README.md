@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[togetherai-2026-08-05.md](./articles/togetherai-2026-08-05.md)** — Together AI (2026-08-05)
+**[writer-2026-08-06.md](./articles/writer-2026-08-06.md)** — Writer (2026-08-06)
 
 ---
 
@@ -21,6 +21,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [xai-2026-07-03.md](./articles/xai-2026-07-03.md) | xai | 2026-07-03 |
 | [xai-2026-06-23.md](./articles/xai-2026-06-23.md) | xai | 2026-06-23 |
 | [xai-2026-04-28.md](./articles/xai-2026-04-28.md) | xai | 2026-04-28 |
+| [writer-2026-08-06.md](./articles/writer-2026-08-06.md) | writer | 2026-08-06 |
 | [weaviate-2026-04-07.md](./articles/weaviate-2026-04-07.md) | weaviate | 2026-04-07 |
 | [waymo-2026-06-17.md](./articles/waymo-2026-06-17.md) | waymo | 2026-06-17 |
 | [wandb-2026-04-23.md](./articles/wandb-2026-04-23.md) | wandb | 2026-04-23 |
