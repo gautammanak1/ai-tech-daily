@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[wandb-2026-08-07.md](./articles/wandb-2026-08-07.md)** — Weights & Biases (2026-08-07)
+**[inflection-2026-08-10.md](./articles/inflection-2026-08-10.md)** — Inflection AI (2026-08-10)
 
 ---
 
@@ -69,6 +69,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
+| [inflection-2026-08-10.md](./articles/inflection-2026-08-10.md) | inflection | 2026-08-10 |
 | [inflection-2026-04-20.md](./articles/inflection-2026-04-20.md) | inflection | 2026-04-20 |
 | [harvey-2026-05-21.md](./articles/harvey-2026-05-21.md) | harvey | 2026-05-21 |
 | [groq-2026-05-26.md](./articles/groq-2026-05-26.md) | groq | 2026-05-26 |
