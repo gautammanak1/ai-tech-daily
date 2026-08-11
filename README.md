@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[inflection-2026-08-10.md](./articles/inflection-2026-08-10.md)** — Inflection AI (2026-08-10)
+**[xai-2026-08-11.md](./articles/xai-2026-08-11.md)** — xAI (2026-08-11)
 
 ---
 
@@ -18,6 +18,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 |---------|---------|------|
 | [zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md) | zhipu | 2026-05-06 |
 | [you-com-2026-06-18.md](./articles/you-com-2026-06-18.md) | you-com | 2026-06-18 |
+| [xai-2026-08-11.md](./articles/xai-2026-08-11.md) | xai | 2026-08-11 |
 | [xai-2026-07-03.md](./articles/xai-2026-07-03.md) | xai | 2026-07-03 |
 | [xai-2026-06-23.md](./articles/xai-2026-06-23.md) | xai | 2026-06-23 |
 | [xai-2026-04-28.md](./articles/xai-2026-04-28.md) | xai | 2026-04-28 |
