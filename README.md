@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[crewai-2026-08-13.md](./articles/crewai-2026-08-13.md)** — CrewAI (2026-08-13)
+**[jasper-2026-08-14.md](./articles/jasper-2026-08-14.md)** — Jasper AI (2026-08-14)
 
 ---
 
@@ -67,6 +67,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [lambda-2026-05-13.md](./articles/lambda-2026-05-13.md) | lambda | 2026-05-13 |
 | [lakera-2026-06-12.md](./articles/lakera-2026-06-12.md) | lakera | 2026-06-12 |
 | [lakera-2026-05-07.md](./articles/lakera-2026-05-07.md) | lakera | 2026-05-07 |
+| [jasper-2026-08-14.md](./articles/jasper-2026-08-14.md) | jasper | 2026-08-14 |
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
