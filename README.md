@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[gautammanak-2026-08-17.md](./articles/gautammanak-2026-08-17.md)** — gautammanak (2026-08-17)
+**[alephalpha-2026-08-18.md](./articles/alephalpha-2026-08-18.md)** — Aleph Alpha (2026-08-18)
 
 ---
 
@@ -116,6 +116,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [anthropic-2026-06-24.md](./articles/anthropic-2026-06-24.md) | anthropic | 2026-06-24 |
 | [amd-2026-04-30.md](./articles/amd-2026-04-30.md) | amd | 2026-04-30 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
+| [alephalpha-2026-08-18.md](./articles/alephalpha-2026-08-18.md) | alephalpha | 2026-08-18 |
 | [ai21-2026-08-12.md](./articles/ai21-2026-08-12.md) | ai21 | 2026-08-12 |
 | [ai21-2026-06-25.md](./articles/ai21-2026-06-25.md) | ai21 | 2026-06-25 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
