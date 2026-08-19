@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[alephalpha-2026-08-18.md](./articles/alephalpha-2026-08-18.md)** — Aleph Alpha (2026-08-18)
+**[perplexity-2026-08-19.md](./articles/perplexity-2026-08-19.md)** — Perplexity (2026-08-19)
 
 ---
 
@@ -48,6 +48,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [pydantic-ai-2026-07-27.md](./articles/pydantic-ai-2026-07-27.md) | pydantic-ai | 2026-07-27 |
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
 | [pinecone-2026-06-30.md](./articles/pinecone-2026-06-30.md) | pinecone | 2026-06-30 |
+| [perplexity-2026-08-19.md](./articles/perplexity-2026-08-19.md) | perplexity | 2026-08-19 |
 | [perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md) | perplexity | 2026-06-09 |
 | [openai-2026-07-28.md](./articles/openai-2026-07-28.md) | openai | 2026-07-28 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
