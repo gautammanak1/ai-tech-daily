@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[perplexity-2026-08-19.md](./articles/perplexity-2026-08-19.md)** — Perplexity (2026-08-19)
+**[qdrant-2026-08-20.md](./articles/qdrant-2026-08-20.md)** — Qdrant (2026-08-20)
 
 ---
 
@@ -45,6 +45,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
 | [render-2026-07-02.md](./articles/render-2026-07-02.md) | render | 2026-07-02 |
 | [qualcomm-2026-07-07.md](./articles/qualcomm-2026-07-07.md) | qualcomm | 2026-07-07 |
+| [qdrant-2026-08-20.md](./articles/qdrant-2026-08-20.md) | qdrant | 2026-08-20 |
 | [pydantic-ai-2026-07-27.md](./articles/pydantic-ai-2026-07-27.md) | pydantic-ai | 2026-07-27 |
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
 | [pinecone-2026-06-30.md](./articles/pinecone-2026-06-30.md) | pinecone | 2026-06-30 |
