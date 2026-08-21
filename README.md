@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[qdrant-2026-08-20.md](./articles/qdrant-2026-08-20.md)** — Qdrant (2026-08-20)
+**[groq-2026-08-21.md](./articles/groq-2026-08-21.md)** — Groq (2026-08-21)
 
 ---
 
@@ -76,6 +76,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [inflection-2026-08-10.md](./articles/inflection-2026-08-10.md) | inflection | 2026-08-10 |
 | [inflection-2026-04-20.md](./articles/inflection-2026-04-20.md) | inflection | 2026-04-20 |
 | [harvey-2026-05-21.md](./articles/harvey-2026-05-21.md) | harvey | 2026-05-21 |
+| [groq-2026-08-21.md](./articles/groq-2026-08-21.md) | groq | 2026-08-21 |
 | [groq-2026-05-26.md](./articles/groq-2026-05-26.md) | groq | 2026-05-26 |
 | [google-2026-08-17.md](./articles/google-2026-08-17.md) | google | 2026-08-17 |
 | [github-copilot-2026-07-06.md](./articles/github-copilot-2026-07-06.md) | github-copilot | 2026-07-06 |
