@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[langchain-2026-08-25.md](./articles/langchain-2026-08-25.md)** — LangChain (2026-08-25)
+**[pydantic-ai-2026-08-26.md](./articles/pydantic-ai-2026-08-26.md)** — Pydantic AI (2026-08-26)
 
 ---
 
@@ -46,6 +46,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [render-2026-07-02.md](./articles/render-2026-07-02.md) | render | 2026-07-02 |
 | [qualcomm-2026-07-07.md](./articles/qualcomm-2026-07-07.md) | qualcomm | 2026-07-07 |
 | [qdrant-2026-08-20.md](./articles/qdrant-2026-08-20.md) | qdrant | 2026-08-20 |
+| [pydantic-ai-2026-08-26.md](./articles/pydantic-ai-2026-08-26.md) | pydantic-ai | 2026-08-26 |
 | [pydantic-ai-2026-07-27.md](./articles/pydantic-ai-2026-07-27.md) | pydantic-ai | 2026-07-27 |
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
 | [pinecone-2026-06-30.md](./articles/pinecone-2026-06-30.md) | pinecone | 2026-06-30 |
