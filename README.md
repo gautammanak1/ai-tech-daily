@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[pydantic-ai-2026-08-26.md](./articles/pydantic-ai-2026-08-26.md)** — Pydantic AI (2026-08-26)
+**[github-copilot-2026-08-27.md](./articles/github-copilot-2026-08-27.md)** — GitHub Copilot (2026-08-27)
 
 ---
 
@@ -81,6 +81,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [groq-2026-08-21.md](./articles/groq-2026-08-21.md) | groq | 2026-08-21 |
 | [groq-2026-05-26.md](./articles/groq-2026-05-26.md) | groq | 2026-05-26 |
 | [google-2026-08-17.md](./articles/google-2026-08-17.md) | google | 2026-08-17 |
+| [github-copilot-2026-08-27.md](./articles/github-copilot-2026-08-27.md) | github-copilot | 2026-08-27 |
 | [github-copilot-2026-07-06.md](./articles/github-copilot-2026-07-06.md) | github-copilot | 2026-07-06 |
 | [github-copilot-2026-05-08.md](./articles/github-copilot-2026-05-08.md) | github-copilot | 2026-05-08 |
 | [gautammanak-2026-08-17.md](./articles/gautammanak-2026-08-17.md) | gautammanak | 2026-08-17 |
