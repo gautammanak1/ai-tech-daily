@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[github-copilot-2026-08-27.md](./articles/github-copilot-2026-08-27.md)** — GitHub Copilot (2026-08-27)
+**[figureai-2026-08-28.md](./articles/figureai-2026-08-28.md)** — Figure AI (2026-08-28)
 
 ---
 
@@ -85,6 +85,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [github-copilot-2026-07-06.md](./articles/github-copilot-2026-07-06.md) | github-copilot | 2026-07-06 |
 | [github-copilot-2026-05-08.md](./articles/github-copilot-2026-05-08.md) | github-copilot | 2026-05-08 |
 | [gautammanak-2026-08-17.md](./articles/gautammanak-2026-08-17.md) | gautammanak | 2026-08-17 |
+| [figureai-2026-08-28.md](./articles/figureai-2026-08-28.md) | figureai | 2026-08-28 |
 | [figureai-2026-08-24.md](./articles/figureai-2026-08-24.md) | figureai | 2026-08-24 |
 | [figureai-2026-07-30.md](./articles/figureai-2026-07-30.md) | figureai | 2026-07-30 |
 | [figureai-2026-05-29.md](./articles/figureai-2026-05-29.md) | figureai | 2026-05-29 |
