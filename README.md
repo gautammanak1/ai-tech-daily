@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cursor-2026-09-01.md](./articles/cursor-2026-09-01.md)** — Cursor (2026-09-01)
+**[babyagi-2026-09-02.md](./articles/babyagi-2026-09-02.md)** — BabyAGI (2026-09-02)
 
 ---
 
@@ -119,6 +119,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [bittensor-2026-05-21.md](./articles/bittensor-2026-05-21.md) | bittensor | 2026-05-21 |
 | [bittensor-2026-05-05.md](./articles/bittensor-2026-05-05.md) | bittensor | 2026-05-05 |
 | [bittensor-2026-04-21.md](./articles/bittensor-2026-04-21.md) | bittensor | 2026-04-21 |
+| [babyagi-2026-09-02.md](./articles/babyagi-2026-09-02.md) | babyagi | 2026-09-02 |
 | [babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md) | babyagi | 2026-04-19 |
 | [autogpt-2026-06-11.md](./articles/autogpt-2026-06-11.md) | autogpt | 2026-06-11 |
 | [anyscale-2026-08-31.md](./articles/anyscale-2026-08-31.md) | anyscale | 2026-08-31 |
