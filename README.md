@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[babyagi-2026-09-02.md](./articles/babyagi-2026-09-02.md)** — BabyAGI (2026-09-02)
+**[apple-2026-09-03.md](./articles/apple-2026-09-03.md)** — Apple (2026-09-03)
 
 ---
 
@@ -122,6 +122,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [babyagi-2026-09-02.md](./articles/babyagi-2026-09-02.md) | babyagi | 2026-09-02 |
 | [babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md) | babyagi | 2026-04-19 |
 | [autogpt-2026-06-11.md](./articles/autogpt-2026-06-11.md) | autogpt | 2026-06-11 |
+| [apple-2026-09-03.md](./articles/apple-2026-09-03.md) | apple | 2026-09-03 |
 | [anyscale-2026-08-31.md](./articles/anyscale-2026-08-31.md) | anyscale | 2026-08-31 |
 | [anyscale-2026-06-04.md](./articles/anyscale-2026-06-04.md) | anyscale | 2026-06-04 |
 | [anthropic-2026-06-24.md](./articles/anthropic-2026-06-24.md) | anthropic | 2026-06-24 |
