@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[apple-2026-09-03.md](./articles/apple-2026-09-03.md)** — Apple (2026-09-03)
+**[anthropic-safety-2026-09-04.md](./articles/anthropic-safety-2026-09-04.md)** — Anthropic Safety (2026-09-04)
 
 ---
 
@@ -125,6 +125,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [apple-2026-09-03.md](./articles/apple-2026-09-03.md) | apple | 2026-09-03 |
 | [anyscale-2026-08-31.md](./articles/anyscale-2026-08-31.md) | anyscale | 2026-08-31 |
 | [anyscale-2026-06-04.md](./articles/anyscale-2026-06-04.md) | anyscale | 2026-06-04 |
+| [anthropic-safety-2026-09-04.md](./articles/anthropic-safety-2026-09-04.md) | anthropic-safety | 2026-09-04 |
 | [anthropic-2026-06-24.md](./articles/anthropic-2026-06-24.md) | anthropic | 2026-06-24 |
 | [amd-2026-04-30.md](./articles/amd-2026-04-30.md) | amd | 2026-04-30 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
