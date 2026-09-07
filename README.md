@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[anthropic-safety-2026-09-04.md](./articles/anthropic-safety-2026-09-04.md)** — Anthropic Safety (2026-09-04)
+**[babyagi-2026-09-07.md](./articles/babyagi-2026-09-07.md)** — BabyAGI (2026-09-07)
 
 ---
 
@@ -119,6 +119,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [bittensor-2026-05-21.md](./articles/bittensor-2026-05-21.md) | bittensor | 2026-05-21 |
 | [bittensor-2026-05-05.md](./articles/bittensor-2026-05-05.md) | bittensor | 2026-05-05 |
 | [bittensor-2026-04-21.md](./articles/bittensor-2026-04-21.md) | bittensor | 2026-04-21 |
+| [babyagi-2026-09-07.md](./articles/babyagi-2026-09-07.md) | babyagi | 2026-09-07 |
 | [babyagi-2026-09-02.md](./articles/babyagi-2026-09-02.md) | babyagi | 2026-09-02 |
 | [babyagi-2026-04-19.md](./articles/babyagi-2026-04-19.md) | babyagi | 2026-04-19 |
 | [autogpt-2026-06-11.md](./articles/autogpt-2026-06-11.md) | autogpt | 2026-06-11 |
