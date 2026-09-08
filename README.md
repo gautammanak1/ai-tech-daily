@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[babyagi-2026-09-07.md](./articles/babyagi-2026-09-07.md)** — BabyAGI (2026-09-07)
+**[protectai-2026-09-08.md](./articles/protectai-2026-09-08.md)** — Protect AI (2026-09-08)
 
 ---
 
@@ -49,6 +49,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [pydantic-ai-2026-08-26.md](./articles/pydantic-ai-2026-08-26.md) | pydantic-ai | 2026-08-26 |
 | [pydantic-ai-2026-07-27.md](./articles/pydantic-ai-2026-07-27.md) | pydantic-ai | 2026-07-27 |
 | [pydantic-ai-2026-05-22.md](./articles/pydantic-ai-2026-05-22.md) | pydantic-ai | 2026-05-22 |
+| [protectai-2026-09-08.md](./articles/protectai-2026-09-08.md) | protectai | 2026-09-08 |
 | [pinecone-2026-06-30.md](./articles/pinecone-2026-06-30.md) | pinecone | 2026-06-30 |
 | [perplexity-2026-08-19.md](./articles/perplexity-2026-08-19.md) | perplexity | 2026-08-19 |
 | [perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md) | perplexity | 2026-06-09 |
