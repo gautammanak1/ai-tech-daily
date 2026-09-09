@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[protectai-2026-09-08.md](./articles/protectai-2026-09-08.md)** — Protect AI (2026-09-08)
+**[ocean-2026-09-09.md](./articles/ocean-2026-09-09.md)** — Ocean Protocol (2026-09-09)
 
 ---
 
@@ -54,6 +54,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [perplexity-2026-08-19.md](./articles/perplexity-2026-08-19.md) | perplexity | 2026-08-19 |
 | [perplexity-2026-06-09.md](./articles/perplexity-2026-06-09.md) | perplexity | 2026-06-09 |
 | [openai-2026-07-28.md](./articles/openai-2026-07-28.md) | openai | 2026-07-28 |
+| [ocean-2026-09-09.md](./articles/ocean-2026-09-09.md) | ocean | 2026-09-09 |
 | [ocean-2026-04-07.md](./articles/ocean-2026-04-07.md) | ocean | 2026-04-07 |
 | [ocean-2026-04-05.md](./articles/ocean-2026-04-05.md) | ocean | 2026-04-05 |
 | [nvidia-2026-06-19.md](./articles/nvidia-2026-06-19.md) | nvidia | 2026-06-19 |
