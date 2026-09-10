@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[ocean-2026-09-09.md](./articles/ocean-2026-09-09.md)** — Ocean Protocol (2026-09-09)
+**[mistral-2026-09-10.md](./articles/mistral-2026-09-10.md)** — Mistral AI (2026-09-10)
 
 ---
 
@@ -61,6 +61,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [nvidia-2026-06-15.md](./articles/nvidia-2026-06-15.md) | nvidia | 2026-06-15 |
 | [modal-2026-07-24.md](./articles/modal-2026-07-24.md) | modal | 2026-07-24 |
 | [modal-2026-06-08.md](./articles/modal-2026-06-08.md) | modal | 2026-06-08 |
+| [mistral-2026-09-10.md](./articles/mistral-2026-09-10.md) | mistral | 2026-09-10 |
 | [midjourney-2026-05-14.md](./articles/midjourney-2026-05-14.md) | midjourney | 2026-05-14 |
 | [meta-2026-04-22.md](./articles/meta-2026-04-22.md) | meta | 2026-04-22 |
 | [mcp-ecosystem-2026-04-10.md](./articles/mcp-ecosystem-2026-04-10.md) | mcp-ecosystem | 2026-04-10 |
