@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[mistral-2026-09-10.md](./articles/mistral-2026-09-10.md)** — Mistral AI (2026-09-10)
+**[salesforce-2026-09-11.md](./articles/salesforce-2026-09-11.md)** — Salesforce (2026-09-11)
 
 ---
 
@@ -40,6 +40,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [scaleai-2026-05-27.md](./articles/scaleai-2026-05-27.md) | scaleai | 2026-05-27 |
 | [samsung-2026-06-01.md](./articles/samsung-2026-06-01.md) | samsung | 2026-06-01 |
 | [samsung-2026-05-25.md](./articles/samsung-2026-05-25.md) | samsung | 2026-05-25 |
+| [salesforce-2026-09-11.md](./articles/salesforce-2026-09-11.md) | salesforce | 2026-09-11 |
 | [salesforce-2026-04-15.md](./articles/salesforce-2026-04-15.md) | salesforce | 2026-04-15 |
 | [runway-2026-08-04.md](./articles/runway-2026-08-04.md) | runway | 2026-08-04 |
 | [runway-2026-04-27.md](./articles/runway-2026-04-27.md) | runway | 2026-04-27 |
