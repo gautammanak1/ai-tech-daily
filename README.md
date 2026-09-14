@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[salesforce-2026-09-11.md](./articles/salesforce-2026-09-11.md)** — Salesforce (2026-09-11)
+**[cruise-2026-09-14.md](./articles/cruise-2026-09-14.md)** — Cruise (2026-09-14)
 
 ---
 
@@ -107,6 +107,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cursor-2026-09-01.md](./articles/cursor-2026-09-01.md) | cursor | 2026-09-01 |
 | [cursor-2026-05-11.md](./articles/cursor-2026-05-11.md) | cursor | 2026-05-11 |
 | [cursor-2026-04-05.md](./articles/cursor-2026-04-05.md) | cursor | 2026-04-05 |
+| [cruise-2026-09-14.md](./articles/cruise-2026-09-14.md) | cruise | 2026-09-14 |
 | [crewai-2026-08-13.md](./articles/crewai-2026-08-13.md) | crewai | 2026-08-13 |
 | [crewai-2026-05-12.md](./articles/crewai-2026-05-12.md) | crewai | 2026-05-12 |
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
