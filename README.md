@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cruise-2026-09-14.md](./articles/cruise-2026-09-14.md)** — Cruise (2026-09-14)
+**[ai21-2026-09-15.md](./articles/ai21-2026-09-15.md)** — AI21 Labs (2026-09-15)
 
 ---
 
@@ -136,6 +136,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [amd-2026-04-30.md](./articles/amd-2026-04-30.md) | amd | 2026-04-30 |
 | [amazon-2026-04-14.md](./articles/amazon-2026-04-14.md) | amazon | 2026-04-14 |
 | [alephalpha-2026-08-18.md](./articles/alephalpha-2026-08-18.md) | alephalpha | 2026-08-18 |
+| [ai21-2026-09-15.md](./articles/ai21-2026-09-15.md) | ai21 | 2026-09-15 |
 | [ai21-2026-08-12.md](./articles/ai21-2026-08-12.md) | ai21 | 2026-08-12 |
 | [ai21-2026-06-25.md](./articles/ai21-2026-06-25.md) | ai21 | 2026-06-25 |
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
