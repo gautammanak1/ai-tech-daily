@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[ai21-2026-09-15.md](./articles/ai21-2026-09-15.md)** — AI21 Labs (2026-09-15)
+**[inflection-2026-09-16.md](./articles/inflection-2026-09-16.md)** — Inflection AI (2026-09-16)
 
 ---
 
@@ -79,6 +79,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [intel-2026-04-08.md](./articles/intel-2026-04-08.md) | intel | 2026-04-08 |
 | [intel-2026-04-07.md](./articles/intel-2026-04-07.md) | intel | 2026-04-07 |
 | [intel-2026-04-06.md](./articles/intel-2026-04-06.md) | intel | 2026-04-06 |
+| [inflection-2026-09-16.md](./articles/inflection-2026-09-16.md) | inflection | 2026-09-16 |
 | [inflection-2026-08-10.md](./articles/inflection-2026-08-10.md) | inflection | 2026-08-10 |
 | [inflection-2026-04-20.md](./articles/inflection-2026-04-20.md) | inflection | 2026-04-20 |
 | [harvey-2026-05-21.md](./articles/harvey-2026-05-21.md) | harvey | 2026-05-21 |
