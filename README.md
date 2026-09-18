@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[modal-2026-09-17.md](./articles/modal-2026-09-17.md)** — Modal (2026-09-17)
+**[cognition-2026-09-18.md](./articles/cognition-2026-09-18.md)** — Cognition (2026-09-18)
 
 ---
 
@@ -113,6 +113,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [crewai-2026-08-13.md](./articles/crewai-2026-08-13.md) | crewai | 2026-08-13 |
 | [crewai-2026-05-12.md](./articles/crewai-2026-05-12.md) | crewai | 2026-05-12 |
 | [cohere-2026-04-12.md](./articles/cohere-2026-04-12.md) | cohere | 2026-04-12 |
+| [cognition-2026-09-18.md](./articles/cognition-2026-09-18.md) | cognition | 2026-09-18 |
 | [cognition-2026-07-01.md](./articles/cognition-2026-07-01.md) | cognition | 2026-07-01 |
 | [cognition-2026-06-03.md](./articles/cognition-2026-06-03.md) | cognition | 2026-06-03 |
 | [codeium-2026-06-16.md](./articles/codeium-2026-06-16.md) | codeium | 2026-06-16 |
