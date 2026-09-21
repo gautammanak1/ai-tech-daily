@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[cognition-2026-09-18.md](./articles/cognition-2026-09-18.md)** — Cognition (2026-09-18)
+**[adobe-2026-09-21.md](./articles/adobe-2026-09-21.md)** — Adobe (2026-09-21)
 
 ---
 
@@ -145,6 +145,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [ai21-2026-04-10.md](./articles/ai21-2026-04-10.md) | ai21 | 2026-04-10 |
 | [agno-2026-06-10.md](./articles/agno-2026-06-10.md) | agno | 2026-06-10 |
 | [agno-2026-05-03.md](./articles/agno-2026-05-03.md) | agno | 2026-05-03 |
+| [adobe-2026-09-21.md](./articles/adobe-2026-09-21.md) | adobe | 2026-09-21 |
 | [adept-2026-05-15.md](./articles/adept-2026-05-15.md) | adept | 2026-05-15 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
 | [1x-tech-2026-04-29.md](./articles/1x-tech-2026-04-29.md) | 1x-tech | 2026-04-29 |
