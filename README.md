@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[openai-safety-2026-09-23.md](./articles/openai-safety-2026-09-23.md)** — OpenAI Safety (2026-09-23)
+**[chainlink-2026-09-24.md](./articles/chainlink-2026-09-24.md)** — Chainlink (2026-09-24)
 
 ---
 
@@ -120,6 +120,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [cognition-2026-06-03.md](./articles/cognition-2026-06-03.md) | cognition | 2026-06-03 |
 | [codeium-2026-06-16.md](./articles/codeium-2026-06-16.md) | codeium | 2026-06-16 |
 | [codeium-2026-04-06.md](./articles/codeium-2026-04-06.md) | codeium | 2026-04-06 |
+| [chainlink-2026-09-24.md](./articles/chainlink-2026-09-24.md) | chainlink | 2026-09-24 |
 | [chainlink-2026-07-23.md](./articles/chainlink-2026-07-23.md) | chainlink | 2026-07-23 |
 | [chainlink-2026-05-28.md](./articles/chainlink-2026-05-28.md) | chainlink | 2026-05-28 |
 | [chainlink-2026-05-19.md](./articles/chainlink-2026-05-19.md) | chainlink | 2026-05-19 |
