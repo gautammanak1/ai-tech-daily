@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[chainlink-2026-09-24.md](./articles/chainlink-2026-09-24.md)** — Chainlink (2026-09-24)
+**[zhipu-2026-09-25.md](./articles/zhipu-2026-09-25.md)** — Zhipu AI (2026-09-25)
 
 ---
 
@@ -16,6 +16,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 | Article | Company | Date |
 |---------|---------|------|
+| [zhipu-2026-09-25.md](./articles/zhipu-2026-09-25.md) | zhipu | 2026-09-25 |
 | [zhipu-2026-05-06.md](./articles/zhipu-2026-05-06.md) | zhipu | 2026-05-06 |
 | [you-com-2026-06-18.md](./articles/you-com-2026-06-18.md) | you-com | 2026-06-18 |
 | [xai-2026-08-11.md](./articles/xai-2026-08-11.md) | xai | 2026-08-11 |
