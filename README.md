@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[zhipu-2026-09-25.md](./articles/zhipu-2026-09-25.md)** — Zhipu AI (2026-09-25)
+**[adept-2026-09-28.md](./articles/adept-2026-09-28.md)** — Adept AI (2026-09-28)
 
 ---
 
@@ -150,6 +150,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [agno-2026-06-10.md](./articles/agno-2026-06-10.md) | agno | 2026-06-10 |
 | [agno-2026-05-03.md](./articles/agno-2026-05-03.md) | agno | 2026-05-03 |
 | [adobe-2026-09-21.md](./articles/adobe-2026-09-21.md) | adobe | 2026-09-21 |
+| [adept-2026-09-28.md](./articles/adept-2026-09-28.md) | adept | 2026-09-28 |
 | [adept-2026-05-15.md](./articles/adept-2026-05-15.md) | adept | 2026-05-15 |
 | [2026-04-05-2.md](./articles/2026-04-05-2.md) | 2026 | 04-05-2 |
 | [1x-tech-2026-04-29.md](./articles/1x-tech-2026-04-29.md) | 1x-tech | 2026-04-29 |
