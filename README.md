@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[adept-2026-09-28.md](./articles/adept-2026-09-28.md)** — Adept AI (2026-09-28)
+**[fetchai-2026-09-29.md](./articles/fetchai-2026-09-29.md)** — Fetch.ai (2026-09-29)
 
 ---
 
@@ -98,6 +98,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [figureai-2026-08-24.md](./articles/figureai-2026-08-24.md) | figureai | 2026-08-24 |
 | [figureai-2026-07-30.md](./articles/figureai-2026-07-30.md) | figureai | 2026-07-30 |
 | [figureai-2026-05-29.md](./articles/figureai-2026-05-29.md) | figureai | 2026-05-29 |
+| [fetchai-2026-09-29.md](./articles/fetchai-2026-09-29.md) | fetchai | 2026-09-29 |
 | [exa-2026-08-03.md](./articles/exa-2026-08-03.md) | exa | 2026-08-03 |
 | [exa-2026-05-01.md](./articles/exa-2026-05-01.md) | exa | 2026-05-01 |
 | [elevenlabs-2026-06-29.md](./articles/elevenlabs-2026-06-29.md) | elevenlabs | 2026-06-29 |
