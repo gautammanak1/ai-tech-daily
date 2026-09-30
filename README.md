@@ -8,7 +8,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 
 ## Latest Article
 
-**[fetchai-2026-09-29.md](./articles/fetchai-2026-09-29.md)** — Fetch.ai (2026-09-29)
+**[superagi-2026-09-30.md](./articles/superagi-2026-09-30.md)** — SuperAGI (2026-09-30)
 
 ---
 
@@ -37,6 +37,7 @@ Each day, the agent **picks a different company** (Google, Microsoft, OpenAI, An
 | [tavily-2026-07-29.md](./articles/tavily-2026-07-29.md) | tavily | 2026-07-29 |
 | [tavily-2026-04-11.md](./articles/tavily-2026-04-11.md) | tavily | 2026-04-11 |
 | [tabnine-2026-06-02.md](./articles/tabnine-2026-06-02.md) | tabnine | 2026-06-02 |
+| [superagi-2026-09-30.md](./articles/superagi-2026-09-30.md) | superagi | 2026-09-30 |
 | [supabase-2026-04-16.md](./articles/supabase-2026-04-16.md) | supabase | 2026-04-16 |
 | [scaleai-2026-05-27.md](./articles/scaleai-2026-05-27.md) | scaleai | 2026-05-27 |
 | [samsung-2026-06-01.md](./articles/samsung-2026-06-01.md) | samsung | 2026-06-01 |
